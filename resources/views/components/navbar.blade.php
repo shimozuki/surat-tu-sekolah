@@ -13,7 +13,7 @@
                     </svg>
                 </button>
                 <a href="/" class="flex ml-2 md:mr-24">
-                    <img src="{{ asset('assets/img/Logo-SMKN-1.png') }}" class="h-9 mr-3" alt="FlowBite Logo">
+                    <img src="{{ asset('assets/img/Logo-MTSN.png') }}" class="h-9 mr-3" alt="FlowBite Logo">
                     <span class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap dark:text-white">MTSN 4 SUMBAWA</span>
                 </a>
 
