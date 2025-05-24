@@ -375,7 +375,7 @@
                                 Dispensasi</label>
                             <textarea name="perihalAwal"
                                 class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
-                                id="perihalAwal" cols="10" rows="3" required>Berdasarkan surat dari Gerakan Pramuka Saka Bhayangkara Satsuit Tubun Malahayadi Polresta Gorontalo Kota tanggal 30 Oktober 2023 Nomor : 37/SBK-02-029/X Perihal Pemberitahuan, maka Kepala SMK Negeri 1 Sumbawa memberikan Dispensasi kepada : </textarea>
+                                id="perihalAwal" cols="10" rows="3" required>Berdasarkan surat dari Gerakan Pramuka Saka Bhayangkara Satsuit Tubun Malahayadi Polresta Gorontalo Kota tanggal 30 Oktober 2023 Nomor : 37/SBK-02-029/X Perihal Pemberitahuan, maka Kepala MTSN 4 SUMBAWA memberikan Dispensasi kepada : </textarea>
                         </div>
                         <div class="col-span-6 sm:col-span-8">
                             <hr class="h-px my-3 bg-gray-200 border-0 dark:bg-gray-700">

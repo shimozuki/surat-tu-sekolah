@@ -463,7 +463,7 @@
                                 class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Perihal</label>
                             <textarea name="perihalSurat"
                                 class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
-                                id="perihalSurat" cols="10" rows="3" required>Berdasarkan Data yang ada bahwa Nama tersebut benar-benar Lulusan SMK Negeri 1 Sumbawa angkatan Tahun 1999/2000 Tahun Lulus 2001/2002</textarea>
+                                id="perihalSurat" cols="10" rows="3" required>Berdasarkan Data yang ada bahwa Nama tersebut benar-benar Lulusan MTSN 4 SUMBAWA angkatan Tahun 1999/2000 Tahun Lulus 2001/2002</textarea>
                         </div>
                     </div>
             </div>

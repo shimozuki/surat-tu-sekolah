@@ -425,7 +425,7 @@
             <td style="width: 100%; ">
                 <h1 style="font-size: 12px; font-weight: bold;" class="text-center">PEMERINTAH PROVINSI GORONTALO</h1>
                 <h1 style="font-weight: bold;" class="text-center">DINAS PENDIDIKAN DAN KEBUDAYAAN</h1>
-                <h1 style="font-weight: bold;" class="text-center">SMK Negeri 1 Sumbawa</h1>
+                <h1 style="font-weight: bold;" class="text-center">MTSN 4 SUMBAWA</h1>
                 <p style="font-size: 12px;" class="text-center">
                     Jl. Ternate Telp (0435)822772 Fax : (0435)822772 Kota Gorontalo 96125
                 </p>

@@ -28,7 +28,7 @@
                             <h1 class="text-4xl font-extrabold dark:text-white">
                                 Login</h1>
                             <p class="block mb-2 text-sm font-medium text-gray-900 dark:text-white mt-4">Selamat Datang
-                                Di SKTU(Surat Kelola Tata Usaha), SMK Negeri 1 Sumbawa</p>
+                                Di SKTU(Surat Kelola Tata Usaha), MTSN 4 SUMBAWA</p>
                         </div>
                         <div>
                             <label for="email"

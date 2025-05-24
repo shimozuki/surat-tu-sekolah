@@ -530,7 +530,7 @@
             <td style="width: 100%; ">
                 <h1 style="font-size: 12px; font-weight: bold;" class="text-center">PEMERINTAH PROVINSI GORONTALO</h1>
                 <h1 style="font-weight: bold;" class="text-center">DINAS PENDIDIKAN DAN KEBUDAYAAN</h1>
-                <h1 style="font-weight: bold;" class="text-center">SMK Negeri 1 Sumbawa</h1>
+                <h1 style="font-weight: bold;" class="text-center">MTSN 4 SUMBAWA</h1>
                 <p style="font-size: 12px;" class="text-center">
                     Jl. Ternate Telp (0435)822772 Fax : (0435)822772 Kota Gorontalo 96125
                 </p>
@@ -549,7 +549,7 @@
     <div style="border-width: 0.5px; border-style: solid; border-color: black; margin-top: 2px" class="w-full"></div>
     <h1 style="text-decoration: underline;" class="text-center font-black underline mt-4">SURAT TUGAS</h1>
     <p class="text-center">Nomor : {{ $nomor_surat }}</p>
-    <p class="mt-8">Kepala SMK Negeri 1 Sumbawa memberikan tugas kepada :</p>
+    <p class="mt-8">Kepala MTSN 4 SUMBAWA memberikan tugas kepada :</p>
     <table class="border  border-collapse table-auto mx-auto w-full my-4">
         <thead>
             <tr>

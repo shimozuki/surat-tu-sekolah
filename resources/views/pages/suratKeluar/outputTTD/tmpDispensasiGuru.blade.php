@@ -186,7 +186,7 @@
             <td style="width: 100%; ">
                 <h1 style="font-size: 12px; font-weight: bold;" class="text-center">PEMERINTAH PROVINSI GORONTALO</h1>
                 <h1 style="font-weight: bold;" class="text-center">DINAS PENDIDIKAN DAN KEBUDAYAAN</h1>
-                <h1 style="font-weight: bold;" class="text-center">SMK Negeri 1 Sumbawa</h1>
+                <h1 style="font-weight: bold;" class="text-center">MTSN 4 SUMBAWA</h1>
                 <p style="font-size: 12px;" class="text-center">
                     Jl. Ternate Telp (0435)822772 Fax : (0435)822772 Kota Gorontalo 96125
                 </p>
@@ -208,7 +208,7 @@
         <p style="font-size: 0.875rem; line-height: 1.25rem;">Nomor : {{ $nomor_surat }}</p>
     </div>
     <p class="mt-8">
-        Kepala SMK Negeri 1 Sumbawa memberikan Dispensasi kepada :
+        Kepala MTSN 4 SUMBAWA memberikan Dispensasi kepada :
     </p>
     <div class="ml-14" style="margin-top: 1rem; margin-bottom:1rem">
         <p><span style="display: inline-block; width: 130px">Nama </span>: {{ $nama_guru }}</p>

@@ -380,7 +380,7 @@
                                 Kegiatan</label>
                             <textarea name="perihal_awal"
                                 class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
-                                id="perihal_awal" cols="10" rows="3" required>Berdasarkan surat dari Forum Koordinasi Pencegehan Terrorisme (FKPT) Provinsi Gorontalo nomor : 115/UND/FKPT-GTLO/XI/2023 tanggal 06 November 2023 perihal Undangan, Maka Kepala SMK Negeri 1 Sumbawa menugaskan kepada :</textarea>
+                                id="perihal_awal" cols="10" rows="3" required>Berdasarkan surat dari Forum Koordinasi Pencegehan Terrorisme (FKPT) Provinsi Gorontalo nomor : 115/UND/FKPT-GTLO/XI/2023 tanggal 06 November 2023 perihal Undangan, Maka Kepala MTSN 4 SUMBAWA menugaskan kepada :</textarea>
                         </div>
 
                         <div class="col-span-6 sm:col-span-8">

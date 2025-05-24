@@ -380,7 +380,7 @@
                         <div class="col-span-6 sm:col-span-8">
                             <hr class="h-px my-3 bg-gray-200 border-0 dark:bg-gray-700">
                             <div class="flex justify-between">
-                                <h4 class="text-2xl font-bold dark:text-white">Kepala Smkn 1 Gorontalo Menerangkan
+                                <h4 class="text-2xl font-bold dark:text-white">Kepala MTSN 4 SUMBAWA Menerangkan
                                     bahwa :</h4>
                             </div>
                             <hr class="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700">
@@ -426,7 +426,7 @@
                                 class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Perihal</label>
                             <textarea name="perihalSurat"
                                 class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
-                                id="perihalSurat" cols="10" rows="3" required>Sesuai dengan permohonan orang tua, maka yang bersangkutan pada dasaranya dapat diterima pada SMK Negeri 1 Sumbawa Kelas XI (Sebelas) Administrasi Perkantoran, dengan syarat :</textarea>
+                                id="perihalSurat" cols="10" rows="3" required>Sesuai dengan permohonan orang tua, maka yang bersangkutan pada dasaranya dapat diterima pada MTSN 4 SUMBAWA Kelas XI (Sebelas) Administrasi Perkantoran, dengan syarat :</textarea>
                         </div>
                         <div class="col-span-6 sm:col-span-8">
                             <hr class="h-px my-3 bg-gray-200 border-0 dark:bg-gray-700">

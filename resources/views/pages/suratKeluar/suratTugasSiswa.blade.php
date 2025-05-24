@@ -373,7 +373,7 @@
                                 class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Perihal</label>
                             <textarea name="perihalAwal"
                                 class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
-                                id="perihalAwal" cols="10" rows="3" required>Kepala SMK Negeri 1 Sumbawa memberikan tugas kepada :</textarea>
+                                id="perihalAwal" cols="10" rows="3" required>Kepala MTSN 4 SUMBAWA memberikan tugas kepada :</textarea>
                         </div>
                         <div class="col-span-6 sm:col-span-8">
                             <hr class="h-px my-3 bg-gray-200 border-0 dark:bg-gray-700">
