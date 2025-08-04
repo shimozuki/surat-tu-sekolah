@@ -32,6 +32,6 @@ class LaporanController extends Controller
 
         $surat = $query->latest()->paginate(10);
 
-        return view('laporan.index', compact('surat', 'jenis', 'startDate', 'endDate', 'status'));
+        return view('pages.laporan.index', compact('surat', 'jenis', 'startDate', 'endDate', 'status'));
     }
 }

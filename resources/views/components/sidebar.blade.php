@@ -243,7 +243,7 @@
                 </li>
                 </ul>
                 </li> --}}
-                @else
+                @elseif (Auth::user()->role == 2)
                 <li>
                     <a href="{{ url('data-ttd') }}"
                         class="flex items-center p-2 text-base text-gray-900 rounded-lg hover:bg-gray-100 group dark:text-gray-200 dark:hover:bg-gray-700 @yield('dataTTD')">
