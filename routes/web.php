@@ -3,6 +3,7 @@
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\KepsekController;
+use App\Http\Controllers\LaporanController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -109,4 +110,6 @@ Route::group(['middleware' => 'auth'], function () {
 
     Route::get('/change-password', [AuthController::class, 'changePassword'])->name('change-password');
     Route::put('/proses-change-password', [AuthController::class, 'proseschangePassword'])->name('proses-change-password');
+
+    Route::get('/laporan', [LaporanController::class, 'index'])->name('laporan.index');
 });

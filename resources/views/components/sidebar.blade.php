@@ -13,6 +13,17 @@
                             <span class="ml-3" sidebar-toggle-item>Dashboard</span>
                         </a>
                     </li>
+                    {{-- untuk Kepala TU --}}
+                    @if (Auth::user()->role == 3)
+                    <li>
+                        <a href="{{ url('laporan') }}"
+                            class="flex items-center p-2 text-base text-gray-900 rounded-lg hover:bg-gray-100 group 
+                   dark:text-gray-200 dark:hover:bg-gray-700 @yield('laporan')">
+                            <i class="fa-solid fa-chart-line"></i>
+                            <span class="ml-3" sidebar-toggle-item>Laporan Surat</span>
+                        </a>
+                    </li>
+                    @endif
                     @if (Auth::user()->role == 0 || Auth::user()->role == 1)
                     <li>
                         <a href="{{ url('surat-masuk') }}"

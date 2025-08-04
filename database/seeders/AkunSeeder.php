@@ -35,6 +35,13 @@ class AkunSeeder extends Seeder
                 'role' => 2,
                 'password' => bcrypt('password'),
             ],
+            [
+                'name' => 'Kepala TU',
+                'email' => 'kepalatu@gmail.com',
+                'ttd' => 'default.png',
+                'role' => 3,
+                'password' => bcrypt('password'),
+            ],
         ];
         foreach ($user as $key => $value) {
             User::create($value);
